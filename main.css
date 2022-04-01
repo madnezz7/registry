@@ -1,0 +1,13 @@
+body {
+    background: url(./assets/running-runner-long-distance-fitness-40751.webp) fixed;
+    background-size: cover;
+    height: 150vh;
+    box-shadow: 1px 10px 30px lightgrey;
+    padding: 20px;
+}
+.people {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
